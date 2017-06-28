@@ -4,7 +4,7 @@ title: post 1
 
 ## post #001
 
-![post #001](https://github.com/autoclubecosse/autoclubecosse.github.io/master/_assets/post-1.jpg)
+![post #001](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg)
 
 A Porsche GT4 from one of our members [@np.automotive](https://www.instagram.com/np.automotive/?hl=en) 
 
