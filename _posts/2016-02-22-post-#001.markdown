@@ -1,5 +1,5 @@
 ---
-title: post 001
+title: 001
 ---
 
 ## post #001
