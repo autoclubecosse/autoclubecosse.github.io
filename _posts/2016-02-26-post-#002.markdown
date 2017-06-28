@@ -1,5 +1,5 @@
 ---
-title: 2
+title: post 2
 ---
 post #002
 
