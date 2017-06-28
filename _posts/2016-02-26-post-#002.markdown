@@ -2,7 +2,7 @@
 title: post 2
 ---
 
-[post-2](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/post-2.jpg)
+[post-2](https://github.com/autoclubecosse.github.io/post-2.jpg)
 
 The new SV
 
