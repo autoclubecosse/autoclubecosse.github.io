@@ -2,8 +2,6 @@
 title: post 1
 ---
 ![post-1](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true)
-![post-1](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg)
-##hello
 
 A Porsche GT4 from one of our members [@np.automotive](https://www.instagram.com/np.automotive/?hl=en) 
 
