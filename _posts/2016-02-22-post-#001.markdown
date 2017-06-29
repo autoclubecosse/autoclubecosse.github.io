@@ -1,5 +1,6 @@
 ---
 title: post 1
+layout: post
 ---
 ![post-1](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true)[![button](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/next.png?raw=true)]
 
