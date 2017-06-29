@@ -2,9 +2,7 @@
 title: post 1
 layout: post
 ---
-![post-1](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true)[![button](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/next.png?raw=true)]
-
-hello (https://autoclubecosse.github.io/2016/02/26/post-002.html)
+![post-1](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true)[![button](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/next.png?raw=true)](https://autoclubecosse.github.io/2016/02/26/post-002.html)
 
 A Porsche GT4 from one of our members [@np.automotive](https://www.instagram.com/np.automotive/?hl=en) 
 
