@@ -2,16 +2,7 @@
 title: post 2
 ---
 
-[post-2]
-
-
-
-
-
-
-(https://raw.githubusercontent.com/autoclubecosse/autoclubecosse.github.io/master/post-1.jpg)
-https://raw.githubusercontent.com/autoclubecosse/autoclubecosse.github.io/master/post-1.jpg
-https://github.com/autoclubecosse.github.io/post-2.jpg
+![post-2](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-2.jpg?raw=true)
 
 The new SV
 
