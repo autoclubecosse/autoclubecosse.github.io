@@ -1,6 +1,6 @@
 ---
 title: post 2
-layout: post
+layout: default
 ---
 [![button](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/back.png?raw=true)](https://autoclubecosse.github.io/2016/02/22/post-001.html)
 ![post-2](https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-2.jpg?raw=true)
