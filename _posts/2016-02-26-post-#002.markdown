@@ -23,8 +23,8 @@ The new SV
 
 
 <ul>
-  <li><img src="post-2.jpg"></li>
-  <li><img src="post-2.jpg"></li>
-  <li><img src="post-2.jpg"></li>
-  <li><img src="post-2.jpg"></li>
+  <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
+  <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
+  <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
+  <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
 </ul>
