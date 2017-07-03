@@ -26,5 +26,5 @@ The new SV
   <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
   <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
   <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
-  <li><img src="autoclubecosse.github.io/_assets/logo-1.jpg"></li>
+  <li><img src="https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/logo-1.jpg?raw=true"></li>
 </ul>
