@@ -9,18 +9,12 @@
   <button id="rightbutton" onclick='moveright()'> &gt;</button>
 <div id="galleryContainer">
     <div id="gallery">
-      <img src="slides/BarbedWire.jpg" alt="Barbed Wire" />
-      <img src="slides/Feather.jpg" alt="Feather" />
-      <img src="slides/DriftStuff.jpg" alt="Drift Stuff" />
-      <img src="slides/Driftwood.jpg" alt="Driftwood" />
-      <img src="slides/DriftwoodGuy.jpg" alt="Driftwood and Guy" />
-      <img src="slides/GrassLight.jpg" alt="Grass and Light" />
-      <img src="slides/PebbleAndShells.jpg" alt="Pebble and Shells" />
-      <img src="slides/StickSea.jpg" alt="Stick and Sea" />
-      <img src="slides/SeaweedGasmask.jpg" alt="Seaweed Gasmask" />
-      <img src="slides/Surfers.jpg" alt="Surfers" />
-    </div>
-    <div id="caption">Photo Caption</div>
+      <img src="https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true" alt="post-1" />
+      <img src="https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-1.jpg?raw=true" alt="Feather" />
+      <img src="https://github.com/autoclubecosse/autoclubecosse.github.io/blob/master/_assets/post-2.jpg?raw=true" alt="Drift Stuff" />
+</div>
+   
+   <div id="caption">Photo Caption</div>
     <div id="loading">Please wait...</div>
   </div>
 <div id="caption">Photo Caption</div>
